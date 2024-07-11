@@ -1,0 +1,348 @@
+[
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-pTMLvX4ispSAnLZKAqxJTt",
+        "code": "111",
+        "name": "Tiền mặt",
+        "nameEn": "Cash in hand",
+        "previousDebitAmount": 93035407033,
+        "previousCreditAmount": 0,
+        "debitAmount": 0,
+        "creditAmount": 0,
+        "endDebitAmount": 93035407033,
+        "endCreditAmount": 0,
+        "children": [
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-eYhG5bbnHZjqwUQtDMVhKt",
+                "code": "1111",
+                "name": "Tiền Việt Nam",
+                "nameEn": "Vietnam dong",
+                "previousDebitAmount": 93035407033,
+                "previousCreditAmount": 0,
+                "debitAmount": 0,
+                "creditAmount": 0,
+                "endDebitAmount": 93035407033,
+                "endCreditAmount": 0,
+                "children": []
+            }
+        ]
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-bLeGJHJWeTSmf4V6kBmDc2",
+        "code": "112",
+        "name": "Tiền gửi Ngân hàng",
+        "nameEn": "Cash in bank",
+        "previousDebitAmount": 8146943,
+        "previousCreditAmount": 0,
+        "debitAmount": 0,
+        "creditAmount": 0,
+        "endDebitAmount": 8146943,
+        "endCreditAmount": 0,
+        "children": [
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-mBAdfFV8ShKFNgYofCTH1S",
+                "code": "1121",
+                "name": "Tiền Việt Nam",
+                "nameEn": "Vietnam dong",
+                "previousDebitAmount": 8146943,
+                "previousCreditAmount": 0,
+                "debitAmount": 0,
+                "creditAmount": 0,
+                "endDebitAmount": 8146943,
+                "endCreditAmount": 0,
+                "children": []
+            }
+        ]
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-pz1JunexTvGbZCxfy7o5rz",
+        "code": "133",
+        "name": "Thuế GTGT được khấu trừ",
+        "nameEn": "VAT deducted",
+        "previousDebitAmount": 107471223,
+        "previousCreditAmount": 0,
+        "debitAmount": 0,
+        "creditAmount": 0,
+        "endDebitAmount": 107471223,
+        "endCreditAmount": 0,
+        "children": [
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-pGkMeiiG6Tmghce7T8Rmns",
+                "code": "1331",
+                "name": "Thuế GTGT được khấu trừ của hàng hóa, dịch vụ",
+                "nameEn": "VAT deduction of goods, services",
+                "previousDebitAmount": 107471223,
+                "previousCreditAmount": 0,
+                "debitAmount": 0,
+                "creditAmount": 0,
+                "endDebitAmount": 107471223,
+                "endCreditAmount": 0,
+                "children": []
+            }
+        ]
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-aeJU2k6rn3Ld4PsbaPG76t",
+        "code": "156",
+        "name": "Hàng hóa",
+        "nameEn": "Merchandise inventory",
+        "previousDebitAmount": 0,
+        "previousCreditAmount": 1565246333,
+        "debitAmount": 0,
+        "creditAmount": 0,
+        "endDebitAmount": 0,
+        "endCreditAmount": 1565246333,
+        "children": [
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-eu9RtYuhRPLy42XrEmUbk8",
+                "code": "1561",
+                "name": "Giá mua hàng hóa",
+                "previousDebitAmount": 0,
+                "previousCreditAmount": 1565246333,
+                "debitAmount": 0,
+                "creditAmount": 0,
+                "endDebitAmount": 0,
+                "endCreditAmount": 1565246333,
+                "children": []
+            }
+        ]
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-mBVsLXY58ZkTM4d8d4xSTt",
+        "code": "242",
+        "name": "Chi phí trả trước",
+        "nameEn": "Prepaid expenses",
+        "previousDebitAmount": 19044228,
+        "previousCreditAmount": 0,
+        "debitAmount": 0,
+        "creditAmount": 0,
+        "endDebitAmount": 19044228,
+        "endCreditAmount": 0,
+        "children": [
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-q7PdAvBqzDz1CDtJbbnzEL",
+                "code": "2421",
+                "name": "Chi phí trả trước ngắn hạn",
+                "previousDebitAmount": 19044228,
+                "previousCreditAmount": 0,
+                "debitAmount": 0,
+                "creditAmount": 0,
+                "endDebitAmount": 19044228,
+                "endCreditAmount": 0,
+                "children": []
+            }
+        ]
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-5NKaf6psCCAt89RPq6BvYR",
+        "code": "331",
+        "name": "Phải trả cho người bán",
+        "nameEn": "Payable to seller",
+        "previousDebitAmount": 0,
+        "previousCreditAmount": 91654263388,
+        "debitAmount": 0,
+        "creditAmount": 0,
+        "endDebitAmount": 0,
+        "endCreditAmount": 91654263388,
+        "children": [
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-i5H2ELZXPnpHtJqJXEet2p",
+                "code": "3311",
+                "name": "Phải trả người bán ngắn hạn",
+                "previousDebitAmount": 0,
+                "previousCreditAmount": 91654263388,
+                "debitAmount": 0,
+                "creditAmount": 0,
+                "endDebitAmount": 0,
+                "endCreditAmount": 91654263388,
+                "children": []
+            }
+        ]
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-3FfKnKpQsPqBGZsBJBYxp4",
+        "code": "411",
+        "name": "Vốn đầu tư của chủ sở hữu",
+        "nameEn": "Working capital",
+        "previousDebitAmount": 0,
+        "previousCreditAmount": 2000000000,
+        "debitAmount": 0,
+        "creditAmount": 0,
+        "endDebitAmount": 0,
+        "endCreditAmount": 2000000000,
+        "children": [
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-s12eNSHo5kPZM5ae3yQ7mk",
+                "code": "4111",
+                "name": "Vốn góp của chủ sở hữu",
+                "nameEn": "Contributed legal capital",
+                "previousDebitAmount": 0,
+                "previousCreditAmount": 2000000000,
+                "debitAmount": 0,
+                "creditAmount": 0,
+                "endDebitAmount": 0,
+                "endCreditAmount": 2000000000,
+                "children": [
+                    {
+                        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-sjA6MJ5a5ASd7WeEMQyrMe",
+                        "code": "41111",
+                        "name": "Cổ phiếu phổ thông có quyền biểu quyết",
+                        "nameEn": "Ordinary shares with voting rights",
+                        "previousDebitAmount": 0,
+                        "previousCreditAmount": 2000000000,
+                        "debitAmount": 0,
+                        "creditAmount": 0,
+                        "endDebitAmount": 0,
+                        "endCreditAmount": 2000000000,
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-wj4hc5ytb1yYXckZs6pZUJ",
+        "code": "421",
+        "name": "Lợi nhuận sau thuế chưa phân phối",
+        "nameEn": "Undistributed earnings",
+        "previousDebitAmount": 472714449,
+        "previousCreditAmount": 0,
+        "debitAmount": 5197089,
+        "creditAmount": 0,
+        "endDebitAmount": 477911538,
+        "endCreditAmount": 0,
+        "children": [
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-ovR6fR5pWeWkUWWJ2xTiDD",
+                "code": "4212",
+                "name": "Lợi nhuận sau thuế chưa phân phối năm nay",
+                "nameEn": "This year undistributed earnings",
+                "previousDebitAmount": 472714449,
+                "previousCreditAmount": 0,
+                "debitAmount": 5197089,
+                "creditAmount": 0,
+                "endDebitAmount": 477911538,
+                "endCreditAmount": 0,
+                "children": []
+            }
+        ]
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-jT8tuK7K8M9t26srtK851E",
+        "code": "632",
+        "name": "Giá vốn hàng bán",
+        "nameEn": "Cost of goods sold",
+        "previousDebitAmount": 0,
+        "previousCreditAmount": 5164221,
+        "debitAmount": 0,
+        "creditAmount": 0,
+        "endDebitAmount": 0,
+        "endCreditAmount": 5164221,
+        "children": []
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-7bHKEr8MpfganFRkHugYzj",
+        "code": "641",
+        "name": "Chi phí bán hàng",
+        "nameEn": "Selling expenses",
+        "previousDebitAmount": 0,
+        "previousCreditAmount": 0,
+        "debitAmount": 0,
+        "creditAmount": 749495,
+        "endDebitAmount": 0,
+        "endCreditAmount": 749495,
+        "children": [
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-ciyvZFUADFsyHm8ExAyjsX",
+                "code": "6414",
+                "name": "Chi phí khấu hao TSCĐ",
+                "nameEn": "Fixed asset depreciation",
+                "previousDebitAmount": 0,
+                "previousCreditAmount": 0,
+                "debitAmount": 0,
+                "creditAmount": 749495,
+                "endDebitAmount": 0,
+                "endCreditAmount": 749495,
+                "children": []
+            }
+        ]
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-jwdWju8BjektQfuirpqicy",
+        "code": "642",
+        "name": "Chi phí quản lý doanh nghiệp",
+        "nameEn": "General & administration expenses",
+        "previousDebitAmount": 0,
+        "previousCreditAmount": 0,
+        "debitAmount": 0,
+        "creditAmount": 4447594,
+        "endDebitAmount": 0,
+        "endCreditAmount": 4447594,
+        "children": [
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-cwaSsgoBgcDr1tdCMJcrmp",
+                "code": "6422",
+                "name": "Chi phí vật liệu quản lý",
+                "nameEn": "Tools cost",
+                "previousDebitAmount": 0,
+                "previousCreditAmount": 0,
+                "debitAmount": 0,
+                "creditAmount": 726515,
+                "endDebitAmount": 0,
+                "endCreditAmount": 726515,
+                "children": []
+            },
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-8QmazSeWBzwKd9uYjN8sUb",
+                "code": "6423",
+                "name": "Chi phí đồ dùng văn phòng",
+                "nameEn": "Stationery cost",
+                "previousDebitAmount": 0,
+                "previousCreditAmount": 0,
+                "debitAmount": 0,
+                "creditAmount": 1583334,
+                "endDebitAmount": 0,
+                "endCreditAmount": 1583334,
+                "children": []
+            },
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-hRLxtvEubMJVR6Zm9abR6Y",
+                "code": "6424",
+                "name": "Chi phí khấu hao TSCĐ",
+                "nameEn": "Fixed asset depreciation",
+                "previousDebitAmount": 0,
+                "previousCreditAmount": 0,
+                "debitAmount": 0,
+                "creditAmount": 1929412,
+                "endDebitAmount": 0,
+                "endCreditAmount": 1929412,
+                "children": []
+            },
+            {
+                "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-co7AcfBkCvTuxD4EhDqRtt",
+                "code": "6427",
+                "name": "Chi phí dịch vụ mua ngoài",
+                "nameEn": "Outside purchasing services cost",
+                "previousDebitAmount": 0,
+                "previousCreditAmount": 0,
+                "debitAmount": 0,
+                "creditAmount": 208333,
+                "endDebitAmount": 0,
+                "endCreditAmount": 208333,
+                "children": []
+            }
+        ]
+    },
+    {
+        "_id": "*-*-u6iCfVqiHbneTtXjo9vHuN-eLSahtzKenfH3B6eteUDLt",
+        "code": "911",
+        "name": "Xác định kết quả kinh doanh",
+        "nameEn": "Evaluation of business results",
+        "previousDebitAmount": 0,
+        "previousCreditAmount": 0,
+        "debitAmount": 5197089,
+        "creditAmount": 5197089,
+        "endDebitAmount": 0,
+        "endCreditAmount": 0,
+        "children": []
+    }
+]
